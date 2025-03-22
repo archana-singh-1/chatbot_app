@@ -1,6 +1,10 @@
+import Chatbot from "./Chatbot";
+
 function App(){
   return(
-    <div>App</div>
+    <div>
+      <Chatbot/>
+    </div>
   )
 }
 export default App;
